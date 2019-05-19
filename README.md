@@ -1,7 +1,8 @@
 # GlobalClassInJava
 
 # **_ENGLISH_**
-(Refactor > Rename: Sistema => Global, ISistema => IGlobal)
+
+This is a Maven Project, so import it as such and you should have 0 trouble opening it. Otherwise you can just access the code and paste the .java files in another project. Use as you please!
 
 These are the 3 ways of implementing Global Classes in Java I could come up with:
 
@@ -23,7 +24,10 @@ all instances
 
 
 # **_ESPAÑOL_** 
-(Refactor > Renombrar: GlobalClass => Sistema,  IGlobal => ISistema)
+
+Esto es un proyecto de Maven, así que impórtalo como tal y no deberías tener problema abriéndolo. Si no, simplemente copia los ficheros .java a otro proyecto y listo. ¡Úsalo como desees!
+
+(Paso previo necesario: Refactor > Renombrar 1) GlobalClass => Sistema 2) IGlobal => ISistema)
 
 Estas son las 3 maneras de implementar clases de Sistema (Clases Globales) en Java que se me han ocurrido:
 
