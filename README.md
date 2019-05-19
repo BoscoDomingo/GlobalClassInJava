@@ -1,6 +1,7 @@
 # GlobalClassInJava
 
-# **_ENGLISH_** (Refactor > Rename: Sistema => Global, ISistema => IGlobal)
+# **_ENGLISH_**
+(Refactor > Rename: Sistema => Global, ISistema => IGlobal)
 
 These are the 3 ways of implementing Global Classes in Java I could come up with:
 
@@ -21,7 +22,8 @@ all instances
  class attribute). There will only ever be 1 object/instance of `GlobalClass`.
 
 
-# **_ESPAÑOL_** (Refactor > Renombrar: GlobalClass => Sistema,  IGlobal => ISistema)
+# **_ESPAÑOL_** 
+(Refactor > Renombrar: GlobalClass => Sistema,  IGlobal => ISistema)
 
 Estas son las 3 maneras de implementar clases de Sistema (Clases Globales) en Java que se me han ocurrido:
 
